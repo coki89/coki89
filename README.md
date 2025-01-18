@@ -10,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/coki89?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/coki89?style=social)
 
-Soy Jorge Cavero, un programador web con más de 10 años de experiencia en PHP, Java, y Python.
+Soy Jorge Cavero, un programador web con más de 15 años de experiencia en PHP, Java, y Python.
 
 He trabajado en varios proyectos importantes, incluyendo [HispaSys](https://hispasys.com), [Seoactivo](https://seoactivo.com), [NavegaConVoz](https://navegaconvoz.com), y la web del [Mercat Central de Castellón](https://mercatcentralcastello.es). También soy técnico especialista en ciberseguridad, asegurando que los proyectos en los que trabajo sean tanto eficientes como seguros.
 
