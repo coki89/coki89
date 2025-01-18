@@ -1,4 +1,4 @@
-# ![https://hispasys.com](https://hispasys.com/wp-content/uploads/logo-nuevo.png) Hola, mi nombre es Jorge Cavero 👋
+# !Hola, mi nombre es Jorge Cavero 👋
 ### Fundador de HispaSys y programador web en PHP, Java, Python y técnico especialista en ciberseguridad
 
 ![https://github.com/coki89](./coki89_github_profile.png)
@@ -19,7 +19,7 @@ He trabajado en varios proyectos importantes, incluyendo [HispaSys](https://hisp
 ## Encuéntrame en:
 
 [![Website](https://img.shields.io/badge/Web-HispaSys-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://hispasys.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Cavero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-cavero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Cavero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-cavero-zarza-92138a86/)
 [![Twitter](https://img.shields.io/badge/Twitter-@coki89-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/coki89)
 [![GitHub](https://img.shields.io/badge/GitHub-coki89-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/coki89)
 [![Discord](https://img.shields.io/badge/Discord-HispaSys-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://hispasys.com/discord)
