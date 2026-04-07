@@ -14,7 +14,7 @@ Actualmente lidero el desarrollo de proyectos clave:
 - 🏢 [**HispaSys**](https://hispasys.com) - Sistemas de gestión empresarial
 - 🎯 [**NavegaConVoz**](https://navegaconvoz.com) - Plataforma de marketing digital
 - 🏛️ [**Mercat Central de Castelló**](https://mercatcentralcastello.es) - Web institucional
-- 🧳 [**Turistan**](https://github.com/coki89/turistan) - Plataforma de gestión turística
+- 🧳 [**Turistand**](https://github.com/coki89/turistand) - Plataforma de gestión turística
 
 Además, soy **técnico especialista en ciberseguridad**, asegurando que cada proyecto cumpla con los más altos estándares de seguridad.
 
@@ -49,21 +49,14 @@ Además, soy **técnico especialista en ciberseguridad**, asegurando que cada pr
 
 ---
 
-## 🚀 Proyectos
-
-### Proyectos Principales
+## 🚀 Proyectos en Desarrollo
 
 | Proyecto | Descripción | Tech Stack |
 |----------|-------------|------------|
 | [🏢 **HispaSys**](https://hispasys.com) | Sistema integral de gestión empresarial con módulos de facturación, inventario y CRM | PHP, MySQL, Docker |
 | [🎯 **NavegaConVoz**](https://navegaconvoz.com) | Plataforma de marketing digital con análisis SEO/SEM y gestión de campañas | PHP, React, MySQL |
 | [🏛️ **Mercat Central de Castelló**](https://mercatcentralcastello.es) | Portal institucional para el mercado central de Castellón | PHP, MySQL, Docker |
-| [🧳 **Turistan**](https://github.com/coki89/turistan) | Plataforma de gestión turística con reservas y estadísticas | PHP, SQLite, Render |
-
-### Proyectos en Desarrollo
-
-| Proyecto | Descripción | Tech Stack |
-|----------|-------------|------------|
+| [🧳 **Turistand**](https://github.com/coki89/turistand) | Plataforma de gestión turística con reservas y estadísticas | PHP, SQLite, Render |
 | [🏨 **Hostal La Economía**](https://github.com/coki89/hostal-la-economia) | Sistema de reservas hoteleras con Stripe, 2FA y notificaciones push | PHP, SQLite, Render |
 | [⏱️ **ControlHoras**](https://github.com/coki89/controlhoras) | Gestión de tiempos de trabajo con API REST y dashboard | Django, Python, SQLite |
 | [🔐 **Nominacheck**](https://github.com/coki89/nominacheck) | Verificación de nóminas y seguros sociales | Node.js, PostgreSQL |
