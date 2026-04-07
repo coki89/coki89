@@ -49,7 +49,7 @@ Además, soy **técnico especialista en ciberseguridad**, asegurando que cada pr
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 ### Proyectos Principales
 
@@ -60,13 +60,13 @@ Además, soy **técnico especialista en ciberseguridad**, asegurando que cada pr
 | [🏛️ **Mercat Central de Castelló**](https://mercatcentralcastello.es) | Portal institucional para el mercado central de Castellón | PHP, MySQL, Docker |
 | [🧳 **Turistan**](https://github.com/coki89/turistan) | Plataforma de gestión turística con reservas y estadísticas | PHP, SQLite, Render |
 
-### Otros Proyectos
+### Proyectos en Desarrollo
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| [🏨 Hostal La Economía](https://github.com/coki89/hostal-la-economia) | Sistema de reservas hoteleras con Stripe, 2FA y notificaciones push | ✅ Activo |
-| [⏱️ ControlHoras](https://github.com/coki89/controlhoras) | Gestión de tiempos de trabajo con API REST y dashboard | ✅ Activo |
-| [🔐 Nominacheck](https://github.com/coki89/nominacheck) | Verificación de nóminas y seguros sociales | 🚧 En desarrollo |
+| Proyecto | Descripción | Tech Stack |
+|----------|-------------|------------|
+| [🏨 **Hostal La Economía**](https://github.com/coki89/hostal-la-economia) | Sistema de reservas hoteleras con Stripe, 2FA y notificaciones push | PHP, SQLite, Render |
+| [⏱️ **ControlHoras**](https://github.com/coki89/controlhoras) | Gestión de tiempos de trabajo con API REST y dashboard | Django, Python, SQLite |
+| [🔐 **Nominacheck**](https://github.com/coki89/nominacheck) | Verificación de nóminas y seguros sociales | Node.js, PostgreSQL |
 
 ---
 
